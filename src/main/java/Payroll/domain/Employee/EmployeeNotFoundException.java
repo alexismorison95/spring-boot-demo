@@ -1,4 +1,4 @@
-package Payroll.domain;
+package Payroll.domain.Employee;
 
 public class EmployeeNotFoundException extends RuntimeException {
 

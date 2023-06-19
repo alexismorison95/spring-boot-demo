@@ -1,4 +1,4 @@
-package Payroll.domain;
+package Payroll.domain.Employee;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
